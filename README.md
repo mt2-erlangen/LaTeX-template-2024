@@ -12,10 +12,10 @@ Alternatively, you can also install tex locally on your computer:
 
 ## Getting started
 
-Before writing your report please add your personal information to the project. You can do this by editing the respective fields at the beginning of `project.tex`:
+Before writing your report, please add your personal information to the project. You can do this by editing the respective fields at the beginning of `project.tex`:
 - Your name/immatriculation number
 - Title
-- Language: If you want to write in English start with `project.tex`, if you want to write in German start with `project_deutsch.tex`. 
+- Language: If you want to write in English, start with `project.tex`; If you want to write in German, start with `project_deutsch.tex`. 
 
 Finally, you are ready to add some content :smiley:
 
