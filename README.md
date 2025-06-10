@@ -1,4 +1,4 @@
-# LaTeX-template-2024
+# LaTeX-template-2025
 
 ## How to import
 
